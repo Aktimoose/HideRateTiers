@@ -1,0 +1,29 @@
+{
+	"geode": "6.0.0-alpha.1",
+	"gd": {
+		"win": "2.2091",
+		"android": "2.2091",
+		"mac": "2.2091",
+		"ios": "2.2091"
+	},
+	"id": "aktimoose.hide_rate_tiers",
+	"name": "Hide Rate Tiers",
+	"version": "v1.0.0",
+	"developer": "aktimoose",
+	"description": "Hides or normalizes rate tiers",
+    "settings": {
+        "tier-override": {
+            "name": "Rate Tier",
+            "description": "What rate tier is applied to every level.",
+            "type": "string",
+            "one-of": [
+                "No Tier",
+                "Featured",
+                "Epic",
+                "Legendary",
+                "Mythic"
+            ],
+            "default": "No Tier"
+        }
+    }
+}
