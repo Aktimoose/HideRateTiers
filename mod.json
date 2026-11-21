@@ -11,6 +11,9 @@
 	"version": "v1.0.0",
 	"developer": "aktimoose",
 	"description": "Hides or normalizes rate tiers",
+	"links": {
+		"source": "https://github.com/Aktimoose/HideRateTiers"
+	},
     "settings": {
         "tier-override": {
             "name": "Rate Tier",
