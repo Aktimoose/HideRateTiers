@@ -8,10 +8,11 @@
 	},
 	"id": "aktimoose.hide_rate_tiers",
 	"name": "Hide Rate Tiers",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "aktimoose",
 	"description": "Hides or normalizes rate tiers",
 	"links": {
+        "homepage": "https://thechallengebyrob.top",
 		"source": "https://github.com/Aktimoose/HideRateTiers"
 	},
     "settings": {
